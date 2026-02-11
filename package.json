@@ -2,7 +2,10 @@
   "name": "my-patternfly-compass-demo",
   "version": "1.0.0",
   "description": "This is a demo of the patternfly cli",
-  "repository": "https://github.com/patternfly/patternfly-react-seed.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlabaj/my-patternfly-compass-demo.git"
+  },
   "homepage": "https://patternfly-react-seed.surge.sh",
   "license": "MIT",
   "private": true,
